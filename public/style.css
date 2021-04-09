@@ -1,0 +1,10 @@
+p{
+    align-items: center;
+    padding: 10px;
+    color:#FFFFFF;
+    background-color:#8C2121;
+}
+
+p a{
+    color:chartreuse;
+}
